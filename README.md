@@ -203,16 +203,3 @@ This layer helps reduce unreliable outputs and improves consistency.
 * OpenAI-compatible API
 * Embeddings + cosine similarity
 
----
-
-## Author
-
-Svetlana Sidorenko
-AI Engineer / Backend Developer
-
-* Telegram: [https://t.me/sidarenkas](https://t.me/sidarenkas)
-* Email: [ssidaren@gmail.com](mailto:ssidaren@gmail.com)
-* Website: [https://ai24solutions.ru](https://ai24solutions.ru)
-* LinkedIn: [https://www.linkedin.com/in/sviatanasidarenka/](https://www.linkedin.com/in/sviatanasidarenka/)
-
-
