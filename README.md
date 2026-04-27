@@ -1,4 +1,4 @@
-# ContextFlow — RAG Backend Service
+# ContextFlow
 
 ContextFlow is a backend service that demonstrates a retrieval-augmented generation (RAG) pipeline built with FastAPI and an OpenAI-compatible API.
 
